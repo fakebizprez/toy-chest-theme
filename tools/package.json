@@ -1,0 +1,14 @@
+{
+  "name": "toy-chest-theme-tools",
+  "version": "0.1.0",
+  "description": "Tools for developing and testing the Toy Chest Theme",
+  "private": true,
+  "scripts": {
+    "test-theme": "node test-theme.js",
+    "package": "node package-extension.js",
+    "check-contrast": "node contrast-checker.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "toy-chest-theme",
+  "displayName": "Toy Chest Theme",
+  "description": "A vibrant, playful theme reminiscent of colorful childhood toys",
+  "version": "0.1.0",
+  "publisher": "your-publisher-name",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "scripts": {
+    "test": "node tools/test-theme.js",
+    "package": "node tools/package-extension.js",
+    "check-contrast": "node tools/contrast-checker.js"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Toy Chest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/toy-chest-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/toy-chest-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "toy chest",
+    "colorful",
+    "playful"
+  ],
+  "license": "MIT",
+  "icon": "icon.png"
+}
