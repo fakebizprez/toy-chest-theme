@@ -1,6 +1,8 @@
 # Toy Chest Theme for VSCode/Cursor/Windsurf
 
-I got tired of using solarized themes during the day so I converted a theme from the Kitty Terminal to a VSCode/Cursor/Windsurf theme.
+I was tired of Solarized themes hurting my eyes during daylight, so I ported a Vim/Emacs theme from Kitty terminal to VSCode (Cursor &  Windsurf supported).
+
+All credit goes to <a href="https://github.com/ColemanGariety">Coleman Gariety</a> for the original creation: <a href="https://github.com/ColemanGariety/toy-chest-theme">ColemanGariety/toy-chest-theme</a>
 
 ## Features
 
@@ -39,7 +41,7 @@ If you prefer to install the extension manually:
 3. Click the "..." menu and select "Install from VSIX..."
 4. Select the downloaded file
 
-## For Cursor Editor Users
+## For Cursor & Windsurf Editor Users
 
 This theme is fully compatible with Cursor Editor. Install it the same way you would for VS Code.
 
