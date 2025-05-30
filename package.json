@@ -3,7 +3,7 @@
   "displayName": "Toy Chest Theme",
   "description": "A vibrant, playful theme reminiscent of colorful childhood toys",
   "version": "0.1.0",
-  "publisher": "your-publisher-name",
+  "publisher": "fakebizprez",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -26,14 +26,27 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/toy-chest-theme"
+    "url": "https://github.com/fakebizprez/toy-chest-theme"
   },
   "keywords": [
     "theme",
     "dark theme",
     "toy chest",
     "colorful",
-    "playful"
+    "playful",
+    "cursor editor",
+    "cursor extension",
+    "cursor theme",
+    "terminal extension",
+    "terminal theme",
+    "vsix",
+    "vscode",
+    "vscode extension",
+    "vscode theme",
+    "extension",
+    "windsurf editor",
+    "windsurf extension",
+    "windsurf theme"
   ],
   "license": "MIT",
   "icon": "icon.png"

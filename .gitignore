@@ -3,6 +3,8 @@ node_modules/
 
 # Built extension packages
 *.vsix
+# Sample files
+samples/
 
 # Logs
 logs
@@ -32,6 +34,3 @@ Thumbs.db
 
 # Cursor
 .cursorrules
-
-
-README.md

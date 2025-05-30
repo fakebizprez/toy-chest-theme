@@ -1,6 +1,6 @@
 {
   "name": "Toy Chest",
-  "type": "dark",
+  "type": "light",
   "colors": {
     // Editor colors
     "editor.background": "#23364a",
@@ -50,8 +50,6 @@
     "badge.background": "#be2d26",
     "badge.foreground": "#ffffff",
     
-    "notification.background": "#da8e26",
-    "notification.foreground": "#23364a",
     "notificationCenter.border": "#30cf7b",
     "notificationCenterHeader.background": "#2c3f57",
     "notificationCenterHeader.foreground": "#30cf7b",
@@ -674,5 +672,5 @@
         "foreground": "#d4d4d4"
       }
     }
-  ]
+ ]
 }
