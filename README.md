@@ -1,4 +1,4 @@
-# Toy Chest Theme for VSCode/Cursor/Windsurf
+# Toy Chest Theme for Visual Studio Code
 
 I was tired of Solarized themes hurting my eyes during daylight, so I ported a Vim/Emacs theme from Kitty terminal to VSCode (Cursor &  Windsurf supported).
 
