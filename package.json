@@ -1,9 +1,9 @@
 {
   "name": "toy-chest-theme",
   "displayName": "Toy Chest Theme",
-  "description": "A vibrant, playful theme reminiscent of colorful childhood toys",
+  "description": "Bright, easy on the eyes, day theme by fakebizprez of cloudMACHINES.",
   "version": "0.1.0",
-  "publisher": "fakebizprez",
+  "publisher": "cloudMACHINE",
   "engines": {
     "vscode": "^1.60.0"
   },
