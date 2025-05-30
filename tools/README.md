@@ -14,7 +14,7 @@ Then you can run the tools using npm:
 
 ```bash
 # Test the theme in VS Code
-npm run test-theme
+npm run test
 
 # Package the extension
 npm run package
